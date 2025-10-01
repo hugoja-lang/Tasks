@@ -1,7 +1,7 @@
 # Gestor de Tareas en Terminal
 
 Simple gestor de tareas creado en Python que se ejecuta en la terminal. Permite al usuario agregar, ver y eliminar tareas.
-![Captura](./images/tasks imagen.png)
+![Captura](./images/tasks_imagen.png)
 
 # Prerrequisitos 📋
 Necesitas tener Python 3 instalado en tu sistema para poder ejecutar este programa.
