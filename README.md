@@ -50,6 +50,13 @@ sudo apt install python3
 Para verificar la instalación, escribe: python3 --version.
 
 ## Cómo ejecutarlo
-1. Asegúrate de tener Python 3 instalado.
-2. Abre una terminal en la carpeta donde se encuentra el archivo .py.
-3. Ejecuta el comando: `python tasks.py`
+1. Descargar el zip, en la parte de Download ZIP
+   
+   ![Captura](./images/descarga.png)
+   
+3. Asegúrate de tener Python 3 instalado.
+4. Abre una terminal en la carpeta donde se encuentra el archivo .py.
+5. Ejecuta el comando: `python tasks.py`
+
+
+
